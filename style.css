@@ -1,9 +1,15 @@
 body{
     margin: 0%;
-    background-color: #646464;
+    background-color: white;
 }
 
 .guide{
-    background-color: white;
-    width: 100vw;
+    background-color: black;
+    color: white;
+    width: 100vw;padding: 10px 0;
+}
+
+.guide input{
+    margin: 0 10px;
+    padding: 2px 5px;
 }
