@@ -2,7 +2,7 @@ var cursorMode = 0;
 var colorHistory;
 
 function setup() {
-	createCanvas(windowWidth, windowHeight);
+	createCanvas(windowWidth, windowHeight*0.9);
 	background(255);
 }
 
